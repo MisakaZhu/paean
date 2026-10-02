@@ -1,0 +1,17 @@
+{
+  "source_root": null,
+  "destination_dir": null,
+  "work_dir": "./paean-work",
+  "music_dir": "./music",
+  "ffmpeg": "ffmpeg",
+  "ffprobe": "ffprobe",
+  "cache_dir": null,
+  "drafts_dir": null,
+  "track_aliases": {
+    "似水": null,
+    "舒缓": null,
+    "五音": null,
+    "传说": null,
+    "轻快": null
+  }
+}

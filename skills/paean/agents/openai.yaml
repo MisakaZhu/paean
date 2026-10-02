@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paean · 口播视频配乐"
+  short_description: "批量为本机口播视频配背景音乐，保留画面并校验响度，可导入指定本机目录"
+  default_prompt: "使用 $paean，根据我提供的视频文件夹或清单和本机曲库，为口播视频配乐并核验成品。"
